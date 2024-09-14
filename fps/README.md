@@ -7,6 +7,10 @@
 
   /bind x exec 333.cfg
 
+- For boostfps.cfg
+
+  /bind h exec boostfps.cfg
+
 ## How to use it?
 - For 125.cfg
 
