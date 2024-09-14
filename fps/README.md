@@ -19,3 +19,7 @@
 - For 333.cfg
 
   Press "x"
+
+- For boostfps.cfg
+
+  Press "h"
